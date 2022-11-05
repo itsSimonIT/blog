@@ -1,0 +1,4 @@
+[submodule "itSimonITBlog/public"]
+	path = itSimonITBlog/public
+	url = https://github.com/itsSimonIT/itsSimonIT.github.io.git
+	branch = main
